@@ -10,7 +10,17 @@ Clipping areas or areas outside the tonal range of the image, whether in shadows
 
 The colors show the degree of contrast of the image, where blue is less contrast and yellow is more contrast.
 
+Hahnemuhle Agave
 ![paper1](https://github.com/jpereiranet/contrast-proof/blob/74de950592dad11b99f8e19c77d19015bfa95896/output/proof_Agave.png )
+
+Hahnemuhle Photo_Rag_Metallic
+![paper2](https://github.com/jpereiranet/contrast-proof/blob/7917179c17c57cedbbe12706a7adcdc53849cc6c/output/proof_Photo_Rag_Metallic.png)
+
+Hahnemuhle Baryta_FB
+![paper2](https://github.com/jpereiranet/contrast-proof/blob/7917179c17c57cedbbe12706a7adcdc53849cc6c/output/proof_Baryta_FB.png)
+
+
+
 
 # Usage
 
@@ -20,7 +30,7 @@ The algorithm uses a curve with this format, it can have different number of inp
 
 You also need the path to an image file, in the test-imgs folder there is an example image
 
-The papers.csv file has a list of example curves for various Hannemule printing papers.
+The papers.csv file has a list of example curves for various Hahnemuhle printing papers.
 
 The file process.py only processes the rows of the CSV file as an example.
 
