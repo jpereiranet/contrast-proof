@@ -24,5 +24,5 @@ The papers.csv file has a list of example curves for various Hannemule printing 
 
 The file process.py only processes the rows of the CSV file as an example.
 
-In the output folder there is an example of the output for those papers and image
+In the output folder there is an example of the output for those papers and image.
 
