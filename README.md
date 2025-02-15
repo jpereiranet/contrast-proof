@@ -36,3 +36,9 @@ The file process.py only processes the rows of the CSV file as an example.
 
 In the output folder there is an example of the output for those papers and image.
 
+# Notes
+
+This algoritm was develop from my doctoral thesis presented in 2023.
+
+[Digitalización y Preservación del Patrimonio Cultural](https://amzn.eu/d/eBC221r)
+
