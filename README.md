@@ -1,5 +1,7 @@
 # Contrast Analysis and Tonal Proofing Tools
 
+[![DOI](https://zenodo.org/badge/930231571.svg)](https://doi.org/10.5281/zenodo.24135355)
+
 This repository contains a set of tools designed to analyze the tonal response of photographic and fine-art papers, and compare it with the content of real images to identify tonal clipping and loss of detail.
 
 ---
