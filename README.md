@@ -94,3 +94,19 @@ pip install numpy opencv-python matplotlib pillow
    ```powershell
    python contrast_proof.py --cgats measurement.txt --image my_photo.tif --contrast-model dicom-jnd
    ```
+
+4. **Analyze the Epson photo paper example**:
+   ```powershell
+   python contrast_proof.py \
+     --image-path "test-imgs\upzji_dsc_0056.tiff" \
+     --cgats-path "test-imgs\Photopaper_epsom_G2.2.txt" \
+     --plot-output "output\mi_analisis.png" \
+     --false-color-output "output\mi_mapa_falso_color.png" \
+     --contrast-model dicom-jnd \
+     --relative-luminance-y \
+     --exclude-samples R2,S2,T2,U2,V2,W2
+   ```
+
+   This example uses `--exclude-samples R2,S2,T2,U2,V2,W2` because, in
+   `Photopaper_epsom_G2.2.txt`, these samples are chromatic patches that do
+   not belong to the achromatic tonal scale.
