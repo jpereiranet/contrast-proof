@@ -2,6 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/930231571.svg)](https://doi.org/10.5281/zenodo.24135355)
 
+[![SSRN Paper](https://img.shields.io/badge/SSRN-10.2139%2Fssrn.7692622-005A9C)](https://dx.doi.org/10.2139/ssrn.7692622)
+
+
+
+
 This repository contains a set of tools designed to analyze the tonal response of photographic and fine-art papers, and compare it with the content of real images to identify tonal clipping and loss of detail.
 
 ---
